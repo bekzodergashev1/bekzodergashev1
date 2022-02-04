@@ -3,7 +3,7 @@
 
 ---
 
-####Backend developer🧑‍💻<br />
+###Backend developer🧑‍💻<br />
 
 ---
 
@@ -20,7 +20,52 @@
 [<img align="left" alt="GitHub" width="26px" src="./techs/github.svg" />][github]
 [<img align="left" alt="Heroku" width="26px" src="./techs/heroku.svg" />][heroku]
 [<img align="left" alt="mysql" width="26px" src="./techs/mysql.png" />][mysql]
-[<img align="left" alt="sql" width="26px" src="./techs/sql.png" />][sql]
+[<img align="left" alt="sqlite3" width="26px" src="./techs/sqlite3.jfif" />][sqlite3]
 [<img align="left" alt="Linux" width="26px" src="./techs/linux.svg" />][linux]
 [<img align="left" alt="Windows" width="26px" src="./techs/windows 10.svg" />][windows]
+[<img align="left" alt="Bot" width="26px" src="./techs/bot.jfif" />][bot]
 
+
+<br />
+<br />
+
+<br />
+
+<details>
+
+  <summary>⚜ Top Langs</summary>
+  
+  <br />
+  
+  ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzodergashev1&theme=algolia&layout=compact)
+  
+</details>
+
+<br />
+
+
+
+
+![Bekzod's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekzodergashev1&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bekzodergashev1&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/bekzodergashev1/bekzodergashev1/blob/main/snake.svg)
+
+
+[python]: https://www.python.org/
+[django]: https://www.djangoproject.com/
+[html]: https://www.w3schools.com/html/default.asp/
+[css]: https://www.w3schools.com/css/default.asp/
+[bootsrtrap]: https://bootstrap-4.ru/
+[javascript]: https://www.javascript.com/
+[vscode]: https://code.visualstudio.com/
+[powershell]: https://docs.microsoft.com/en-us/powershell/
+[git]: https://git-scm.com/
+[github]: https://github.com
+[heroku]: https://www.heroku.com/
+[mysql]: https://www.mysql.com/
+[sqlite3]: https://www.w3schools.com/sqlite3/
+[linux]: https://www.linux.org/
+[windows]: https://www.microsoft.com/en-us/windows
+[bot]: https://core.telegram.org/bots/api
