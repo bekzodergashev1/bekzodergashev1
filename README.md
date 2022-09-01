@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/bekzodergashev1/bekzodergashev1/master/wave.gif" width="20px">, <br /> I am *Bekzod Ergashev*.
+### Assalamu alaykum everyone <img src="https://raw.githubusercontent.com/bekzodergashev1/bekzodergashev1/master/wave.gif" width="20px">, <br /> I am *Bekzod Ergashev*.
 
 
 ---
