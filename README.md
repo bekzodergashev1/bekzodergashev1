@@ -27,9 +27,6 @@
 
 <br />
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bekzodergashev1&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![Snake animation](https://github.com/bekzodergashev1/bekzodergashev1/blob/main/snake.svg)
 
 
