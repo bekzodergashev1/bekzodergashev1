@@ -1,9 +1,9 @@
-### hello everyone <img src="https://raw.githubusercontent.com/bekzodergashev1/bekzodergashev1/master/wave.gif" width="20px">, <br /> I am *Bekzod Ergashev*.
+### Hello everyone <img src="https://raw.githubusercontent.com/bekzodergashev1/bekzodergashev1/master/wave.gif" width="20px">, <br /> I am *Bekzod Ergashev*.
 
 
 ---
 
-### Backend developer🧑‍💻<br />
+### I'm Backend developer🧑‍💻<br />
 
 ---
 <h3 align="left">Connect with me:</h3>
