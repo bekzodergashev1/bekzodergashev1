@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bekzod-ergashev-0416a2204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekzod-ergashev-0416a2204/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bekzodergashev1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bekzodergashev1" height="30" width="40" /></a>
- <a href="https://t.me/bekzodergashev1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bekzodergashev1" height="30" width="40" /></a>
+ <a href="https://t.me/bekzodergashev1/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png" alt="bekzodergashev1" height="30" width="40" /></a>
 
 </p>
 <br />
