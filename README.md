@@ -26,8 +26,8 @@
   
 </details>
 
-<br />
+<!-- <br />
 
 ![Snake animation](https://github.com/bekzodergashev1/bekzodergashev1/blob/main/snake.svg)
 
-
+ -->
