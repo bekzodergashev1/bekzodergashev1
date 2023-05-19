@@ -3,7 +3,7 @@
 
 ---
 
-### I'm Backend developer🧑‍💻<br />
+### I'm Python developer🧑‍💻<br />
 
 ---
 <h3 align="left">Connect with me:</h3>
